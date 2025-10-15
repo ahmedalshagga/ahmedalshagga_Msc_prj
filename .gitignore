@@ -2,3 +2,6 @@ data/*.csv
 #keyword for git in file name, serving as instructiosns for it on what to ignore
 #it will ignore anything in data directory with .csv extension 
 
+#Excluding the file below from the command
+!data/spaceships.csv
+
